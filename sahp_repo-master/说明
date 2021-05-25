@@ -1,1 +1,2 @@
 这部分加了MLP和sparseattention,然后用了自己提取的数据，定义了其类型，并加入了action.
+自己提的数据包括了ATPP和ACTION 然后定义了其类型 把时间戳进行了归一化
